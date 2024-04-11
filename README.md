@@ -4,11 +4,11 @@ The project is created for learning new technologies such as React, MongoDB, and
 
 ## Technologies
 
-    - React
-    - Node.js
-    - Express
-    - MongoDB
-    - WebSockets
+- React
+- Node.js
+- Express
+- MongoDB
+- WebSockets
 
 ## Features
 
