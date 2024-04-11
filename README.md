@@ -12,14 +12,14 @@ The project is created for learning new technologies such as React, MongoDB, and
 
 ## Features
 
-    - User authentication
-    - User authorization
-    - User profile
-    - Posts
-    - Comments
-    - Likes
-    - Follows
-    - Real-time private messages
+- User authentication
+- User authorization
+- User profile
+- Posts
+- Comments
+- Likes
+- Follows
+- Real-time private messages
 
 ## Installation
 
